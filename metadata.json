@@ -1,0 +1,7 @@
+{
+  "name": "180 IQ : เกมส์คนอัจฉริยะ",
+  "description": "A challenging math puzzle game to test your arithmetic and problem-solving skills. Use given numbers and operators to reach a target number. (เกมส์ปริศนาคณิตศาสตร์ทดสอบทักษะการคำนวณและการแก้ปัญหา)",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
